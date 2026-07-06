@@ -1,7 +1,5 @@
  🏥 Healthcare Analytics Dashboard
 
-![Dashboard Preview](dashboard.png)
-
  📌 Project Overview
 
 The **Healthcare Analytics Dashboard** is an interactive Business Intelligence solution developed using **Power BI** and **MySQL**. This project transforms raw healthcare data into meaningful insights through dynamic visualizations, KPI monitoring, and interactive reporting.
